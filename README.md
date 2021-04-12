@@ -1,6 +1,6 @@
-Hi, I’m @webertr.
+Hi, I’m Toby.
 
-I’m interested in node.js, web development, EPICS, and control systems.
+I’m interested in node.js, web development, EPICS, MDSplus, and control systems.
 
 I’m currently learning JavaScript.
 
