@@ -1,7 +1,11 @@
 Hi, I’m @webertr.
+
 I’m interested in node.js, web development, EPICS, and control systems.
+
 I’m currently learning JavaScript.
+
 I’m looking to collaborate on any of the above.
+
 You can reach me by email, at webertr2@outlook.com.
 
 <!---
